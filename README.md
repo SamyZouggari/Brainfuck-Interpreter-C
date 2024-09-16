@@ -1,5 +1,3 @@
-## Interpréteur Brainfuck en C
-
 🇬🇧 :
 
 ## Brainfuck interpreter in C 
