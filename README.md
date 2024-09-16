@@ -1,6 +1,8 @@
-## Brainfuck interpreter in C // Interpréteur Brainfuck en C
+## Interpréteur Brainfuck en C
 
 🇬🇧 :
+
+## Brainfuck interpreter in C 
 I developed a Brainfuck interpreter in C, a project that allowed me to enhance my system programming skills and explore low-level concepts. This project also deepened my understanding of minimalist languages and strengthened my ability to manage limited resources while designing efficient solutions.
 
 Brainfuck is a minimalist programming language created in 1993 by Urban Müller. It is distinguished by its extreme simplicity and use of only eight commands. Although the language is Turing-complete, it is known for being difficult to use due to its lack of traditional syntax and its low-level approach.
@@ -19,6 +21,8 @@ The eight commands in Brainfuck are as follows:
 Brainfuck operates on a memory array (usually of fixed size), where each cell can store one byte of data. The memory pointer moves through this array according to the instructions, modifying values and performing input/output operations. It is a fascinating example of what can be achieved with a minimal set of features.
 
 🇫🇷 :
+
+## Interpréteur Brainfuck en C
 J'ai réalisé un interpréteur Brainfuck en C, un projet qui m'a permis de développer mes compétences en programmation système et d'explorer la manipulation de concepts bas niveau. Ce projet m'a également permis de mieux comprendre le fonctionnement des langages minimalistes et de renforcer ma capacité à gérer des ressources limitées tout en concevant des solutions efficaces.
 
 Brainfuck est un langage de programmation minimaliste conçu en 1993 par Urban Müller. Il se distingue par son extrême simplicité et son utilisation de seulement huit commandes. Bien que le langage soit turing-complet, il est réputé pour être difficile à utiliser en raison de son absence de syntaxe traditionnelle et de son approche bas niveau.
